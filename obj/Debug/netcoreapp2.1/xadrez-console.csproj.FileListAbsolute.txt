@@ -1,0 +1,11 @@
+/home/jana/Documentos/C#/VSCodeWorkspace/xadrez-console/bin/Debug/netcoreapp2.1/xadrez-console.deps.json
+/home/jana/Documentos/C#/VSCodeWorkspace/xadrez-console/bin/Debug/netcoreapp2.1/xadrez-console.runtimeconfig.json
+/home/jana/Documentos/C#/VSCodeWorkspace/xadrez-console/bin/Debug/netcoreapp2.1/xadrez-console.runtimeconfig.dev.json
+/home/jana/Documentos/C#/VSCodeWorkspace/xadrez-console/bin/Debug/netcoreapp2.1/xadrez-console.dll
+/home/jana/Documentos/C#/VSCodeWorkspace/xadrez-console/bin/Debug/netcoreapp2.1/xadrez-console.pdb
+/home/jana/Documentos/C#/VSCodeWorkspace/xadrez-console/obj/Debug/netcoreapp2.1/xadrez-console.csprojAssemblyReference.cache
+/home/jana/Documentos/C#/VSCodeWorkspace/xadrez-console/obj/Debug/netcoreapp2.1/xadrez-console.csproj.CoreCompileInputs.cache
+/home/jana/Documentos/C#/VSCodeWorkspace/xadrez-console/obj/Debug/netcoreapp2.1/xadrez-console.AssemblyInfoInputs.cache
+/home/jana/Documentos/C#/VSCodeWorkspace/xadrez-console/obj/Debug/netcoreapp2.1/xadrez-console.AssemblyInfo.cs
+/home/jana/Documentos/C#/VSCodeWorkspace/xadrez-console/obj/Debug/netcoreapp2.1/xadrez-console.dll
+/home/jana/Documentos/C#/VSCodeWorkspace/xadrez-console/obj/Debug/netcoreapp2.1/xadrez-console.pdb
